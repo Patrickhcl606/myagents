@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Warehouse Inbound Planning",
+    "agent_id": "agt_6a59f58e8ddc819188d35471565c511f",
+    "draft_version_id": "agtv_6a59f5a0a8e88191a8b754dcb34d4e9d",
+    "draft_revision": "drv_1_rKpfVq95CFwKNKRZodsc5-62rD7vg8EO",
+    "latest_published_version_id": "agtv_6a59fa5ebeb8819191f933a25c0cb6ba",
+    "status": "draft_with_published_version",
+    "description": "Plans receiving capacity, docks, labor, and inbound risks",
+    "file": "warehouse-inbound-planning.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f58e8ddc819188d35471565c511f"
+  },
+  {
+    "name": "Warehouse Receiving & Quality",
+    "agent_id": "agt_6a59f5eced10819187926e38bbf20a7e",
+    "draft_version_id": "agtv_6a59f5f429a48191a9ddb00da37428c6",
+    "draft_revision": "drv_1_wjNmUTJ86JS2ahGhvVhKtif87hTMX-m3",
+    "latest_published_version_id": "agtv_6a59fa682fd081919fae275ededab34e",
+    "status": "draft_with_published_version",
+    "description": "Validates receipts, discrepancies, damage, and inspection",
+    "file": "warehouse-receiving-and-quality.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f5eced10819187926e38bbf20a7e"
+  },
+  {
+    "name": "Warehouse Putaway Optimization",
+    "agent_id": "agt_6a59f5f69bc481918cc2cc7e382daabb",
+    "draft_version_id": "agtv_6a59f5fccc508191b177ae5d98036c4c",
+    "draft_revision": "drv_1_oB_JEB5NLbgXhvF_iNuK-Hr_KQQJ7sfW",
+    "latest_published_version_id": "agtv_6a59fa70c69881919a386b92dd0f0abe",
+    "status": "draft_with_published_version",
+    "description": "Recommends safe, efficient storage locations and sequencing",
+    "file": "warehouse-putaway-optimization.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f5f69bc481918cc2cc7e382daabb"
+  },
+  {
+    "name": "Warehouse Inventory Accuracy",
+    "agent_id": "agt_6a59f60453cc8191ad4e29e2f441573a",
+    "draft_version_id": "agtv_6a59f61118088191a014e6bd483afcd7",
+    "draft_revision": "drv_1_VeUanWzcFpB6UcvRW3k8_KOnrjiP-DC0",
+    "latest_published_version_id": "agtv_6a59fa796a9c8191b86f11f8afdbe4f8",
+    "status": "draft_with_published_version",
+    "description": "Detects stock anomalies and prioritizes cycle counts",
+    "file": "warehouse-inventory-accuracy.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f60453cc8191ad4e29e2f441573a"
+  },
+  {
+    "name": "Warehouse Replenishment",
+    "agent_id": "agt_6a59f618a9cc81918c5f1da4f870a07f",
+    "draft_version_id": "agtv_6a59f62597f481918ad964a08c82e5d6",
+    "draft_revision": "drv_1_OaCnFsIIG5tVmFcxGY6zvb9Np0H16it3",
+    "latest_published_version_id": "agtv_6a59fa8890a88191bbee9f3f0ea4b2c2",
+    "status": "draft_with_published_version",
+    "description": "Predicts pick-face depletion and prioritizes replenishment",
+    "file": "warehouse-replenishment.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f618a9cc81918c5f1da4f870a07f"
+  },
+  {
+    "name": "Warehouse Wave & Order Orchestration",
+    "agent_id": "agt_6a59f627f77c8191818663f72225cb14",
+    "draft_version_id": "agtv_6a59f62e46348191bdf81bb65bbbe16f",
+    "draft_revision": "drv_1_gmJ2ObOunPAykDqBlH95dFOgIrbFDu1a",
+    "latest_published_version_id": "agtv_6a59fa91323481918069c95097f42f2c",
+    "status": "draft_with_published_version",
+    "description": "Plans order release, waves, priorities, and capacity balance",
+    "file": "warehouse-wave-and-order-orchestration.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f627f77c8191818663f72225cb14"
+  },
+  {
+    "name": "Warehouse Picking Optimization",
+    "agent_id": "agt_6a59f63081d8819190361b9164f90bb2",
+    "draft_version_id": "agtv_6a59f637da808191850c9ed392543ce1",
+    "draft_revision": "drv_1_uyVfHQEZV45HYg8foo1bq53qfwEG2Gno",
+    "latest_published_version_id": "agtv_6a59fa9a61888191893154ecaa89fc01",
+    "status": "draft_with_published_version",
+    "description": "Improves pick routing, task allocation, and zone balance",
+    "file": "warehouse-picking-optimization.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f63081d8819190361b9164f90bb2"
+  },
+  {
+    "name": "Warehouse Packing Assurance",
+    "agent_id": "agt_6a59f63d6b2481919e4557f4791face8",
+    "draft_version_id": "agtv_6a59f64ef94c819183d254edb8b692bc",
+    "draft_revision": "drv_1_RtVKZHpYe5-QaFUjrTCT7z8tDltXG6s6",
+    "latest_published_version_id": "agtv_6a59faa28bfc819189d0afdf5227b061",
+    "status": "draft_with_published_version",
+    "description": "Optimizes cartons and verifies shipment readiness",
+    "file": "warehouse-packing-assurance.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f63d6b2481919e4557f4791face8"
+  },
+  {
+    "name": "Warehouse Shipping & Dock",
+    "agent_id": "agt_6a59f655f08081918c8d9ced19809cb3",
+    "draft_version_id": "agtv_6a59f65f01708191801264402db3e1fd",
+    "draft_revision": "drv_1_eim8CW01PUoeVZgZzKkXfAMSg3AHMyej",
+    "latest_published_version_id": "agtv_6a59fab8e8a88191bc335021d2a82bea",
+    "status": "draft_with_published_version",
+    "description": "Coordinates staging, loads, docks, and carrier cut-offs",
+    "file": "warehouse-shipping-and-dock.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f655f08081918c8d9ced19809cb3"
+  },
+  {
+    "name": "Warehouse Labor Planning",
+    "agent_id": "agt_6a59f66333f08191b84cc35d4c54e901",
+    "draft_version_id": "agtv_6a59f66cd85c81919ed7b532324582bf",
+    "draft_revision": "drv_1_2VqrM_0acK9cQkaIsSvCwpwFJsdvjQRf",
+    "latest_published_version_id": "agtv_6a59fac1e8fc8191a8f09768908d207d",
+    "status": "draft_with_published_version",
+    "description": "Forecasts workload and recommends skill-based staffing",
+    "file": "warehouse-labor-planning.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f66333f08191b84cc35d4c54e901"
+  },
+  {
+    "name": "Warehouse Equipment & Maintenance",
+    "agent_id": "agt_6a59f677d1f88191ab698f99cec21200",
+    "draft_version_id": "agtv_6a59f68275cc8191be44ee1c8af84aad",
+    "draft_revision": "drv_1_jfGwtdYN4vfEsAJhtOR-kkI-pUCwHsQz",
+    "latest_published_version_id": "agtv_6a59faca4e48819184ccc4ae98f6af74",
+    "status": "draft_with_published_version",
+    "description": "Prioritizes equipment risks and maintenance work",
+    "file": "warehouse-equipment-and-maintenance.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f677d1f88191ab698f99cec21200"
+  },
+  {
+    "name": "Warehouse Safety & Compliance",
+    "agent_id": "agt_6a59f687fd208191a484672ffb857acf",
+    "draft_version_id": "agtv_6a59f6913c0c81918a856a92fc2bccad",
+    "draft_revision": "drv_1_UlbJMIhyi2KeIqK4TJtXwWWeJQNrMy-P",
+    "latest_published_version_id": "agtv_6a59fad49a5481919ea1c79a460434a3",
+    "status": "draft_with_published_version",
+    "description": "Reviews operational data for safety and compliance risk",
+    "file": "warehouse-safety-and-compliance.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f687fd208191a484672ffb857acf"
+  },
+  {
+    "name": "Warehouse Exception Management",
+    "agent_id": "agt_6a59f693b96481919f5fd55442edc39d",
+    "draft_version_id": "agtv_6a59f69b1c908191b54edd768d9985e1",
+    "draft_revision": "drv_1_tq-S9wSluvCtqNDA-ywvy79dBnDaSFVL",
+    "latest_published_version_id": "agtv_6a59fae03d78819183c94b95dd5e9016",
+    "status": "draft_with_published_version",
+    "description": "Triages disruptions and coordinates evidence-based response",
+    "file": "warehouse-exception-management.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f693b96481919f5fd55442edc39d"
+  },
+  {
+    "name": "Warehouse Operations Coordinator",
+    "agent_id": "agt_6a59f6a07d608191b4d8750b4cdac8f3",
+    "draft_version_id": "agtv_6a59f6ac27c4819198d14f31e11ef17d",
+    "draft_revision": "drv_1_K7f-OalcqJo8QxubeE_nsLHzzzPN2o0i",
+    "latest_published_version_id": "agtv_6a59faeaf8a0819192ca9d0ce6991a00",
+    "status": "draft_with_published_version",
+    "description": "Integrates warehouse recommendations into one operating plan",
+    "file": "warehouse-operations-coordinator.md",
+    "agent_studio_url": "https://chatgpt.com/agents/studio/edit/agt_6a59f6a07d608191b4d8750b4cdac8f3"
+  }
+]
+
